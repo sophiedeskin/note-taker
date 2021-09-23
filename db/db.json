@@ -1,11 +1,1 @@
-[
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "hello world",
-        "text": "saying goodbye",
-        "note_id": "c1c2"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"hello world","text":"saying goodbye","note_id":"c1c2"},{"title":"goodbye","text":"goodbye world","note_id":"d30c"},{"title":"out here","text":"forever","note_id":"d9a6"}]

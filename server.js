@@ -44,7 +44,7 @@ app.get("/api/notes", (req, res) =>
   
           fs.writeFile(
             './db/db.json',
-            JSON.stringify(parsedNotes, null, 4),
+            JSON.stringify(parsedNotes),
             (writeErr) =>
               writeErr
                 ? console.error(writeErr)
