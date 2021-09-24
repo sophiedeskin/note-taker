@@ -1,6 +1,6 @@
 # note-taker
 
-Linke to deployed app: https://note-taker-53451.herokuapp.com/notes
+Link to deployed app: https://note-taker-53451.herokuapp.com/notes
 
 ## Your Task
 
